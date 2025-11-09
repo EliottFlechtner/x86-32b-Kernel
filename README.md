@@ -1,12 +1,4 @@
-# EPITA Kernel Development Project 🖥️
-
-## Introduction
-
-Welcome to my repository for the [kernel course at EPITA](https://k.lse.epita.fr/). This project involves developing a kernel for an x86-32bit Intel processor.
-
-## 🤝 Maintainer
-
-- 🦈 Eliott Flechtner
+# Kernel Development Project 🖥️
 
 ## 🛠️ Project Overview
 
